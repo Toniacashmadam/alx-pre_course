@@ -1,2 +1,2 @@
 My first readme
-journey
+how to be update in git
